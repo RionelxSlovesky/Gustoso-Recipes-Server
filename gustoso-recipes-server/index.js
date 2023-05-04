@@ -1,6 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 const chefs = require('./data/chef.json')
+const recipes = require('./data/recipes.json')
 
 
 const app = express()
@@ -20,6 +21,12 @@ app.get('/chefs/:id',(req,res) => {
     const id = req.params.id
     const chef = chefs.find(chef => chef.id===parseInt(id))
     res.send(chef)
+})
+
+app.get('/chefrecipes/:id',(req,res) => {
+    const id = req.params.id
+    const chefRecipes = recipes.filter(recipe => recipe.chef_id===parseInt(id))
+    res.send(chefRecipes)
 })
 
 

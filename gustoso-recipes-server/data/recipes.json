@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "chef_id": 1,
+      "name": "Spaghetti Carbonara",
+      "ingredients": "Pasta, eggs, pancetta, Parmesan cheese, black pepper",
+      "cooking_method": "Boil pasta, cook pancetta, mix with eggs and cheese",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "chef_id": 1,
+      "name": "Margherita Pizza",
+      "ingredients": "Pizza dough, tomatoes, mozzarella cheese, basil",
+      "cooking_method": "Spread sauce on dough, add cheese and basil, bake",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "chef_id": 1,
+      "name": "Tiramisu",
+      "ingredients": "Savoiardi biscuits, coffee, mascarpone cheese, eggs, sugar, cocoa powder",
+      "cooking_method": "Dip biscuits in coffee, layer with cheese mixture, sprinkle cocoa",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "chef_id": 2,
+      "name": "Lasagna",
+      "ingredients": "Lasagna noodles, ground beef, tomatoes, ricotta cheese, mozzarella cheese",
+      "cooking_method": "Cook beef and tomatoes, layer with noodles and cheese, bake",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "chef_id": 2,
+      "name": "Minestrone Soup",
+      "ingredients": "Vegetable broth, carrots, celery, zucchini, beans, pasta",
+      "cooking_method": "Cook vegetables and pasta in broth, season with herbs",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "chef_id": 2,
+      "name": "Bruschetta",
+      "ingredients": "Bread, tomatoes, garlic, olive oil, basil",
+      "cooking_method": "Grill bread, top with tomato mixture and herbs",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "chef_id": 3,
+      "name": "Risotto",
+      "ingredients": "Arborio rice, onion, white wine, chicken broth, Parmesan cheese",
+      "cooking_method": "Cook onion and rice in wine and broth, stir in cheese",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "chef_id": 3,
+      "name": "Osso Buco",
+      "ingredients": "Veal shanks, onion, carrots, celery, tomatoes, white wine",
+      "cooking_method": "Brown meat, cook with vegetables and wine, braise",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "chef_id": 3,
+      "name": "Fettuccine Alfredo",
+      "ingredients": "Fettuccine pasta, butter, Parmesan cheese, heavy cream",
+      "cooking_method": "Cook pasta, melt butter and cheese with cream, mix with pasta",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "chef_id": 4,
+      "name": "Caprese Salad",
+      "ingredients": "Tomatoes, fresh mozzarella cheese, basil, balsamic vinegar",
+      "cooking_method": "Layer tomato and cheese slices, sprinkle with herbs and vinegar",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "chef_id": 4,
+      "name": "Pesto Sauce",
+      "ingredients": "Basil, pine nuts, Parmesan cheese, garlic, olive oil",
+      "cooking_method": "Blend ingredients in food processor, serve with pasta or bread",
+      "rating": 4.2
+    },
+    {
+        "id": 12,
+        "chef_id": 4,
+        "name": "Tiramisu",
+        "ingredients": "Savoiardi biscuits, coffee, mascarpone cheese, eggs, sugar, cocoa powder",
+        "cooking_method": "Dip biscuits in coffee, layer with cheese mixture, sprinkle cocoa",
+        "rating": 4.6
+      },
+      {
+        "id": 13,
+        "chef_id": 5,
+        "name": "Lasagna",
+        "ingredients": "Lasagna noodles, ground beef, tomatoes, ricotta cheese, mozzarella cheese",
+        "cooking_method": "Cook beef and tomatoes, layer with noodles and cheese, bake",
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "chef_id": 5,
+        "name": "Minestrone Soup",
+        "ingredients": "Vegetable broth, carrots, celery, zucchini, beans, pasta",
+        "cooking_method": "Cook vegetables and pasta in broth, season with herbs",
+        "rating": 4.3
+      },
+      {
+        "id": 15,
+        "chef_id": 5,
+        "name": "Bruschetta",
+        "ingredients": "Bread, tomatoes, garlic, olive oil, basil",
+        "cooking_method": "Grill bread, top with tomato mixture and herbs",
+        "rating": 4.4
+      },
+      {
+        "id": 16,
+        "chef_id": 6,
+        "name": "Risotto",
+        "ingredients": "Arborio rice, onion, white wine, chicken broth, Parmesan cheese",
+        "cooking_method": "Cook onion and rice in wine and broth, stir in cheese",
+        "rating": 4.6
+      },
+      {
+        "id": 17,
+        "chef_id": 6,
+        "name": "Spaghetti Carbonara",
+        "ingredients": "Pasta, eggs, pancetta, Parmesan cheese, black pepper",
+        "cooking_method": "Boil pasta, cook pancetta, mix with eggs and cheese",
+        "rating": 4.5
+      },
+      {
+        "id": 18,
+        "chef_id": 6,
+        "name": "Margherita Pizza",
+        "ingredients": "Pizza dough, tomatoes, mozzarella cheese, basil",
+        "cooking_method": "Spread sauce on dough, add cheese and basil, bake",
+        "rating": 4.8
+      }
+  ]
