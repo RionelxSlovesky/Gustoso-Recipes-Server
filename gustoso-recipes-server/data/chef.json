@@ -2,6 +2,7 @@
     {
       "id": 1,
       "name": "Massimo Bottura",
+      "description": "Massimo Bottura is the owner and head chef of the three-Michelin-starred restaurant Osteria Francescana in Modena, Italy. He is known for his innovative and playful approach to Italian cuisine, creating dishes that are both visually stunning and delicious.",
       "experience": "35 years",
       "recipe_quant": 128,
       "likes": 1874,
@@ -11,6 +12,7 @@
       "id": 2,
       "name": "Gualtiero Marchesi",
       "experience": "50 years",
+      "description": "Gualtiero Marchesi is known as the founder of modern Italian cuisine. He is a pioneer of the creative movement in Italian gastronomy and has been awarded three Michelin stars for his innovative and artistic dishes.",
       "recipe_quant": 192,
       "likes": 3156,
       "img": "https://i.ibb.co/m00P067/gualtiero-marchesi.jpg"
@@ -19,6 +21,7 @@
       "id": 3,
       "name": "Carlo Cracco",
       "experience": "30 years",
+      "description": "Carlo Cracco is a Michelin-starred Italian chef who has worked in some of the world's top restaurants. He is known for his innovative and modern approach to Italian cuisine, often combining traditional Italian ingredients with international flavors and techniques.",
       "recipe_quant": 98,
       "likes": 1201,
       "img": "https://i.ibb.co/ckxdyZm/carlo-cracco.jpg"
@@ -26,6 +29,7 @@
     {
       "id": 4,
       "name": "Nadia Santini",
+      "description": "Nadia Santini is a renowned Italian chef who has been awarded three Michelin stars for her outstanding culinary skills. She is the head chef at the famous Dal Pescatore restaurant, which is located in the Lombardy region of Italy. Nadia has a passion for creating traditional Italian dishes using only the freshest ingredients, many of which are sourced from her family's farm.",
       "experience": "45 years",
       "recipe_quant": 172,
       "likes": 2473,
@@ -35,6 +39,7 @@
       "id": 5,
       "name": "Enrico Crippa",
       "experience": "25 years",
+      "description": "Enrico Crippa is the chef and owner of the three-Michelin-starred restaurant Piazza Duomo in Alba, Italy. He is known for his inventive and colorful dishes that highlight the flavors and textures of local ingredients.",
       "recipe_quant": 67,
       "likes": 901,
       "img": "https://i.ibb.co/nk3NcKk/enrico-crippa.jpg"
@@ -43,6 +48,7 @@
       "id": 6,
       "name": "Antonio Carluccio",
       "experience": "50 years",
+      "description": "Antonio Carluccio was an Italian chef, restaurateur, and author who was known for his passion for Italian food. He championed the simplicity and authenticity of Italian cuisine, and his recipes have been enjoyed by millions of people around the world.",
       "recipe_quant": 218,
       "likes": 4067,
       "img": "https://i.ibb.co/6b7mmsX/antonio-carluccio.jpg"
