@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Massimo Bottura",
+      "experience": "35 years",
+      "recipe_quant": 128,
+      "likes": 1874,
+      "img": "https://i.ibb.co/mtGsP3x/massimo-batturo.webp"
+    },
+    {
+      "name": "Gualtiero Marchesi",
+      "experience": "50 years",
+      "recipe_quant": 192,
+      "likes": 3156,
+      "img": "https://i.ibb.co/m00P067/gualtiero-marchesi.jpg"
+    },
+    {
+      "name": "Carlo Cracco",
+      "experience": "30 years",
+      "recipe_quant": 98,
+      "likes": 1201,
+      "img": "https://i.ibb.co/ckxdyZm/carlo-cracco.jpg"
+    },
+    {
+      "name": "Nadia Santini",
+      "experience": "45 years",
+      "recipe_quant": 172,
+      "likes": 2473,
+      "img": "https://i.ibb.co/pK7kVBG/nadia-santini.jpg"
+    },
+    {
+      "name": "Enrico Crippa",
+      "experience": "25 years",
+      "recipe_quant": 67,
+      "likes": 901,
+      "img": "https://i.ibb.co/nk3NcKk/enrico-crippa.jpg"
+    },
+    {
+      "name": "Antonio Carluccio",
+      "experience": "50 years",
+      "recipe_quant": 218,
+      "likes": 4067,
+      "img": "https://i.ibb.co/6b7mmsX/antonio-carluccio.jpg"
+    }
+  ]
